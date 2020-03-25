@@ -3,6 +3,8 @@ I hate video proxy script that encrypted with IonCube, so I made this, you can u
 
 Give me a star if you like this !
 
+## Requirements
+PHP 7+
 
 ## Usage
 
